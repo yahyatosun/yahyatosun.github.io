@@ -71,9 +71,11 @@ You may request deletion of your personal data, subject to any legal obligation 
 
 **Children**
 
-The Application is not intended for children under 16 years of age, or such higher age as required by applicable law. The Service Provider does not knowingly solicit data from children or market the Application to them.
+The Application is not intended for children under 13 years of age. The Service Provider does not knowingly solicit or collect personal information from children under 13.
 
-Where parental or guardian consent is required under applicable law, the Application is not intended for use without that consent. The Service Provider does not knowingly collect personally identifiable information from children under 16 years of age in violation of applicable law. In the event the Service Provider discovers that a child has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided the Service Provider with personal information, please contact the Service Provider (ub.works.code@gmail.com) so that they will be able to take the necessary actions.
+For users aged 13 to 15, the Application may collect limited data as described in this policy. However, in jurisdictions where the age of digital consent is higher than 13 (such as 16 in certain EEA countries), the Service Provider will either (i) obtain verifiable parental or guardian consent before processing personal data, or (ii) refrain from processing non-essential personal data for users in that age group, in accordance with applicable local laws.
+
+In the event the Service Provider discovers that a child under the applicable age of consent has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided the Service Provider with personal information, please contact the Service Provider at ub.works.code@gmail.com so that they will be able to take the necessary actions.
 
 **Security**
 
